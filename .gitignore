@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local dev
+.vercel
+
+# Large model files — NOT committed (too big for Vercel)
+# pca_visual.pkl
+# knn_visual_model.pkl
+# visual_features_cache.pkl
